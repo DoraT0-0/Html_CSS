@@ -1,0 +1,21 @@
+
+/* 1 */
+p {
+    text-decoration: overline;
+    color: red;
+}
+/* 2 */
+p{
+    text-decoration: line-through;
+    color: green;
+}
+/* 3 */
+p{
+    text-decoration: underline;
+    font-family: Arial;
+}
+/* 4 */
+a {
+    text-decoration: none;
+    color: red;
+}

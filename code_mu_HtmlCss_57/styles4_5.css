@@ -1,0 +1,8 @@
+#block{
+	background-repeat: repeat;
+	background-image: url("bg.png");
+	border: 10px dashed black;
+	padding: 30px;
+	width: 350px;
+	height: 300px;
+}
