@@ -1,0 +1,16 @@
+#elem1{
+	border: 1px solid green;
+	width: 600px;
+	padding: 25px;
+	text-align: justify;
+	font-size: 19px;
+}
+
+#elem2{
+	border: 1px solid red;
+	width: 350px;
+	padding: 10px;
+	text-align: justify;
+	font-size: 19px;
+	margin: 35px 70px;
+}

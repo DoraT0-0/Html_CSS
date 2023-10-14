@@ -1,0 +1,37 @@
+#parent{
+	border: 1px solid black;
+	width: 200px;
+	height: 500px;
+	margin: 0 auto;
+	position: relative;
+}
+#child1{
+	border: 1px solid black;
+	border-radius: 50%;
+	background-color: red;
+	width: 120px;
+	height: 120px;
+	position: absolute;
+	top: 50px;
+	left: 40px;
+}
+#child2{
+	border: 1px solid black;
+	border-radius: 50%;
+	background-color: yellow;
+	width: 120px;
+	height: 120px;
+	position: absolute;
+	top: 190px;
+	left: 40px;
+}
+#child3{
+	border: 1px solid black;
+	border-radius: 50%;
+	background-color: green;
+	width: 120px;
+	height: 120px;
+	position: absolute;
+	top: 330px;
+	left: 40px;
+}

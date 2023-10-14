@@ -1,0 +1,22 @@
+.elem{
+	border: 1px solid red;
+}
+
+.elem1{
+	border: 1px solid green;
+	width: 100px;
+	height: 100px;
+	margin: 10px auto;
+}
+.elem2{
+	border: 1px solid green;
+	width: 200px;
+	height: 100px;
+	margin: 10px auto;
+}
+.elem3{
+	border: 1px solid green;
+	width: 300px;
+	height: 100px;
+	margin: 10px auto;
+}

@@ -1,0 +1,16 @@
+#parent{
+	border: 1px solid green;
+	width: 500px;
+	height: 300px;
+	margin: 0 auto;
+	position: relative;
+}
+#child{
+	border: 1px solid red;
+	width: 50px;
+	height: 50px;
+
+	position: absolute;
+	top: 50px;
+	left: 50px;
+}
