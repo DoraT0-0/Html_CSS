@@ -1,0 +1,22 @@
+div{
+	text-align: justify;
+	margin: 10px auto;
+	width: 600px;
+}
+
+span{
+	display: block;
+	border: 1px solid black;
+	padding: 15px;
+	font-size: 20px;
+}
+
+#img1{
+	float: left;
+	margin: 0 15px 0 0;
+}
+
+#img2{
+	float: right;
+	margin: 15px 0 15px 15px;
+}

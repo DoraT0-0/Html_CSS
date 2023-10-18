@@ -1,0 +1,16 @@
+.parent{
+	border: 1px solid red;
+	margin: 20px auto;
+	height: 600px;
+	width: 800px;
+	flex-direction: row;
+	display: flex;
+	justify-content: end;
+}
+
+.elem{
+	border: 1px solid green;
+	height: 60px;
+	width: 120px;
+}
+

@@ -1,0 +1,23 @@
+#p1{
+	position: relative;
+	border: 1px solid green;
+	margin: 50px auto;
+	height: 300px;
+	width: 500px;
+}
+
+#elem1{
+	position: absolute;
+	left: -75px;
+	border: 1px solid red;
+	height: 50px;
+	width: 50px;
+}
+
+#elem2{
+	position: absolute;
+	right: -75px;
+	border: 1px solid red;
+	height: 50px;
+	width: 50px;
+}

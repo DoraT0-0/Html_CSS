@@ -1,0 +1,17 @@
+.parent{
+	border: 1px solid red;
+	margin: 20px auto;
+	height: 600px;
+	width: 800px;
+	flex-direction: column-reverse;
+	display: flex;
+	justify-content: end;
+	align-items: flex-end;
+}
+
+.elem{
+	border: 1px solid green;
+	height: 60px;
+	width: 120px;
+}
+

@@ -1,0 +1,15 @@
+.parent{
+	border: 1px solid black;
+	padding: 20px;
+}
+.elem{
+	border: 1px solid green;
+	height: 50px;
+	width: 100px;
+	float: left;
+	margin: 0 20px 0 0;
+	text-align: center;
+}
+.clearfix{
+	clear: both;
+}

@@ -1,0 +1,20 @@
+#heading{
+	position: fixed;
+	left: 0;
+	top: 0;
+	background-color: #c4cd14;
+	height: 50px;
+	width: 100%;
+	text-align: center;
+	line-height: 50px;
+	color: white;
+	font-size: 25px;
+}
+
+#text{
+	margin: 70px auto;
+	border: 1px solid #c4cd14;
+	width: 800px;
+	font-size: 20px;
+	padding: 30px 20px 30px;
+}
