@@ -1,0 +1,12 @@
+#parent {
+	display: grid;
+	grid-template: 30% auto/10% repeat(2, 20%) auto;
+	border: 2px solid #696989;
+	padding: 10px;
+	width: 600px;
+	height: 400px;
+}
+#parent > div {
+	padding: 10px;
+	border: 1px solid #696989;
+}

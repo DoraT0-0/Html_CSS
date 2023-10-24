@@ -1,0 +1,14 @@
+#menu{
+	display: flex;
+}
+#menu a{
+	background-color: green;
+	color: white;
+	padding: 10px 15px;
+	text-decoration: none;
+	font: 15px Arial;
+}
+
+#menu a:hover, #menu a.active{
+	background-color: rgb(2, 77, 2);
+}

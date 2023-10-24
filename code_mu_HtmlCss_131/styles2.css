@@ -1,0 +1,75 @@
+#parent{
+	margin: 0px auto;
+	border: 1px solid orange;
+	width: 1000px;
+}
+#parent2{
+	text-align: center;
+	margin-top: 20px;
+}
+
+#parent2 a{
+	text-decoration: none;
+	font-weight: bold;
+	color: rgb(160, 111, 20);
+	margin-right: 10px;
+	font-size: 20px;
+}
+
+#parent2 a:hover{
+	text-decoration: underline;
+	color: black;
+}
+
+#parent>#menu{
+	display: flex;
+	margin-bottom: 20px;
+	background-color: orange;
+}
+#parent>#menu a{
+	background-color: orange;
+	color: white;
+	padding: 15px 20px;
+	text-align: center;
+	text-decoration: none;
+	font-size:20px;
+	font-weight: bold;
+}
+#parent>#menu a:hover ,#parent>#menu a.active{
+	color: orange;
+	background-color: white;
+}
+
+#parent>#content{
+	padding: 0 15px;
+}
+
+#parent>#content p{
+	font-size: 20px;
+	line-height: 2;
+	text-indent: 40px;
+	color: rgb(160, 111, 20);
+}
+
+#parent>#content>h1{
+	font-size: 40px;
+	text-align: center;
+	color: rgb(160, 111, 20);
+	font-weight: normal;
+}
+#parent>#content>h2{
+	font-size: 30px;
+	text-align: center;
+	color: rgb(160, 111, 20);
+	font-weight: normal;
+}
+
+#parent>#content a{
+	font-weight: bold;
+	color: rgb(160, 111, 20);
+}
+#parent>#content a:hover{
+	font-weight: bold;
+	text-decoration: none;
+	color: black;
+}
